@@ -84,3 +84,10 @@ The reported 139,391 cycles and 35,725 instructions are the benchmark's reported
 The testbench prints `TRAP` after the core raises its trap signal and then terminates the simulation using `$finish`. In this testbench, that message is the termination mechanism rather than evidence of a benchmark failure.
 
 <img width="486" height="165" alt="dhrystone1" src="https://github.com/user-attachments/assets/92afc020-6450-49f9-8b91-0578156adfae" />
+
+** When no. of runs changed to 1000 
+
+<img width="1385" height="165" alt="dhry2" src="https://github.com/user-attachments/assets/0be02bec-e9ab-4abe-939c-1c46417e5aa1" />
+
+
+
